@@ -10,7 +10,7 @@
 <h2> 💢 Intermediate</h2>
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-<br>
+<br><br>
 <h2> 💢 Basic</h2>
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
