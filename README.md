@@ -5,7 +5,7 @@
 <p align="center">💥 Currently studying Computer Engineering</p> 
 <p align="center">💥 Spoken Languages: English, Spanish, and a little German </b></p> 
 <br>
-<div align="center"> <h2> 📚 Working on Skills 📚</h2> </div>
+<div align="center"> <h1> 📚 Working on Skills 📚</h1> </div>
 <br>
 <h2 align="center"> 💢 Intermediate</h2>
 
