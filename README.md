@@ -7,11 +7,11 @@
 <br>
 <div align="center"> <h2> 📚 Working on Skills 📚</h2> </div>
 <br>
-<h2> 💢 Intermediate</h2>
+<h2 align="center"> 💢 Intermediate</h2>
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 <br><br>
-<h2> 💢 Basic</h2>
+<h2 align="center" > 💢 Basic</h2>
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
