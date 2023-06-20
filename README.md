@@ -42,7 +42,7 @@
 
 - [x] I´m a component-based development enthusiastic 
 - [x] I like to create designs with vinyl and t-shirts in my free time 👕
-- [ ] I developed a web framework called Slice 🕶️
+- [x] I developed a web framework called Slice 🕶️
 - [x] Whoever's purpose is not to serve, serves no purpose ❤️‍🔥
 
 <br> 
