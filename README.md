@@ -5,7 +5,7 @@
 
 ##
 
-<p align="center"> Hey! I'm a 20-year-old passionate computer engineering student in the Rafael Urdaneta University, Venezuela. I am currently learning React and Software Design Patterns.
+<p align="center"> Hey! I'm a 21-year-old passionate computer engineering student in the Rafael Urdaneta University, Venezuela. I am currently building a web frontend Framework and learning new technologies 🆒.
 
 ```sh
 {
@@ -18,7 +18,8 @@
         "Frameworks & Libraries":[
             "Node.js",
             "Express.js",
-            "React"
+            "React",
+            "Slice.js"
         ]
     },
     "Desktop App Development":{
@@ -42,7 +43,7 @@
 
 - [x] I´m a component-based development enthusiastic 
 - [x] I like to create designs with vinyl and t-shirts in my free time 👕
-- [x] I developed a web framework called Slice 🕶️
+- [x] I created a Web frontend Framework, it's called Slice.js
 - [x] Whoever's purpose is not to serve, serves no purpose ❤️‍🔥
 
 <br> 
