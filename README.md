@@ -5,7 +5,7 @@
 
 ##
 
-<p align="center"> Hey! I'm a 21-year-old passionate computer engineering student in the Rafael Urdaneta University, Venezuela. I am currently building a web frontend Framework and learning new technologies 🆒.
+<p align="center"> Hey! I'm a 21-year-old passionate computer engineer. I am currently building a web frontend Framework and learning new technologies 🆒.
 
 ```sh
 {
