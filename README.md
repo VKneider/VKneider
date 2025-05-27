@@ -5,7 +5,7 @@
 
 ##
 
-<p align="center"> Hey! I'm a 21-year-old passionate computer engineer. I am currently building a web frontend Framework and learning new technologies 🆒.
+<p align="center"> Just chillin, learning and makin the world a better place with engineering
 
 ```sh
 {
